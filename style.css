@@ -1,0 +1,13 @@
+/*
+Theme Name: Leaf Child
+Description: Child theme for the Leaf theme.
+Author: You
+Author URI: https://github.com/bradthomas127/leaf-child
+Template: leaf
+Version: 1.0
+*/
+
+@import url("../leaf/style.css");
+
+/* Add specific style overrides below.
+-------------------------------------*/
