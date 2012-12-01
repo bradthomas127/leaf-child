@@ -44,10 +44,10 @@ There are two ways to install child themes: via the WordPress Dashboard (recomme
 
 ## External Child Theme Resources
 
-[WordPress Codex](http://codex.wordpress.org/Child_Themes)
-[How To Modify WordPress Themes The Smart Way](http://themeshaper.com/modify-wordpress-themes/)
-[How to make a child theme for WordPress: A pictorial introduction for beginners](http://op111.net/53/)
-[WordPress PROTIP: Child Themes](http://ottopress.com/2010/wordpress-protip-child-themes/)
+* [WordPress Codex](http://codex.wordpress.org/Child_Themes)
+* [How To Modify WordPress Themes The Smart Way](http://themeshaper.com/modify-wordpress-themes/)
+* [How to make a child theme for WordPress: A pictorial introduction for beginners](http://op111.net/53/)
+* [WordPress PROTIP: Child Themes](http://ottopress.com/2010/wordpress-protip-child-themes/)
 
 @author [bradthomas127](http://wp-ultra.com)
 @version 1.0
